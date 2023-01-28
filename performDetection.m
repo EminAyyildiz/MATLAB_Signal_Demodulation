@@ -1,4 +1,3 @@
-
 clc;
 clear;
 fprintf("...Written by EMİN AYYILDIZ - MUSTAFA ATİLA...\n")
