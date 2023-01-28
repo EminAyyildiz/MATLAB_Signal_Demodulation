@@ -2,6 +2,7 @@ function demodulatedSignal = amCoDet(modulatedSignal, fc, fs)
 % this function converts the modulated signal to demodulated signal
 
 
+
 % we use low pass filter command to use in filtfilt command 
 [num,den] = butter(5,fc*2/fs);
 
